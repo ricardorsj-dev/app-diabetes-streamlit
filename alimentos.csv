@@ -1,0 +1,73 @@
+nome,categoria,acucar,carboidratos,calorias,ig,recomendacao_base
+Maçã,Fruta,10,14,52,38,Recomendado
+Banana,Fruta,12,23,89,51,Recomendado
+Pera,Fruta,10,15,57,38,Recomendado
+Laranja,Fruta,9,12,47,43,Recomendado
+Uva,Fruta,16,18,69,59,Moderado
+Melancia,Fruta,6,8,30,72,Moderado
+Melão,Fruta,8,9,34,65,Moderado
+Manga,Fruta,14,15,60,51,Moderado
+Abacaxi,Fruta,10,13,50,59,Moderado
+Morango,Fruta,5,8,32,40,Recomendado
+Kiwi,Fruta,9,15,61,50,Recomendado
+Mamão,Fruta,8,11,43,60,Moderado
+Abacate,Fruta,1,9,160,15,Recomendado
+Arroz Branco,Cereal,0,28,130,73,Moderado
+Arroz Integral,Cereal,0,23,111,50,Recomendado
+Feijão Carioca,Leguminosa,0,14,76,38,Recomendado
+Feijão Preto,Leguminosa,0,15,77,30,Recomendado
+Lentilha,Leguminosa,0,20,116,32,Recomendado
+Grão-de-Bico,Leguminosa,0,27,164,28,Recomendado
+Ervilha,Leguminosa,3,14,81,22,Recomendado
+Batata Inglesa,Tubérculo,1,20,87,78,Moderado
+Batata Doce,Tubérculo,4,20,86,63,Moderado
+Mandioca,Tubérculo,2,38,160,94,Evitar
+Inhame,Tubérculo,1,27,118,54,Moderado
+Pão Francês,Panificação,2,28,135,75,Moderado
+Pão Integral,Panificação,3,22,110,54,Recomendado
+Torrada Integral,Panificação,2,18,90,50,Recomendado
+Macarrão Cozido,Massa,1,31,157,49,Moderado
+Aveia,Cereal,1,12,68,55,Recomendado
+Granola,Cereal,12,64,471,66,Moderado
+Leite Integral,Laticínio,5,5,61,31,Recomendado
+Leite Desnatado,Laticínio,5,5,34,30,Recomendado
+Iogurte Natural,Laticínio,4,7,59,35,Recomendado
+Queijo Minas,Laticínio,1,3,264,0,Recomendado
+Queijo Mussarela,Laticínio,1,3,280,0,Moderado
+Peito de Frango,Carnes,0,0,165,0,Recomendado
+Carne Bovina Magra,Carnes,0,0,250,0,Recomendado
+Peixe Tilápia,Carnes,0,0,129,0,Recomendado
+Salmão,Carnes,0,0,208,0,Recomendado
+Atum,Carnes,0,0,132,0,Recomendado
+Ovo Cozido,Proteína,0,1,78,0,Recomendado
+Brócolis,Vegetal,2,7,34,15,Recomendado
+Couve-Flor,Vegetal,2,5,25,15,Recomendado
+Cenoura,Vegetal,5,10,41,47,Recomendado
+Tomate,Vegetal,3,4,18,15,Recomendado
+Alface,Vegetal,1,3,15,10,Recomendado
+Pepino,Vegetal,1,4,16,15,Recomendado
+Abobrinha,Vegetal,2,3,17,15,Recomendado
+Espinafre,Vegetal,1,4,23,15,Recomendado
+Chocolate ao Leite,Doce,50,59,535,70,Evitar
+Chocolate Amargo 70%,Doce,24,46,598,25,Moderado
+Brigadeiro,Doce,55,60,400,75,Evitar
+Sorvete de Creme,Doce,21,24,207,61,Evitar
+Bolo de Chocolate,Doce,35,55,371,68,Evitar
+Refrigerante Cola,Bebida,39,39,150,75,Evitar
+Suco Industrializado,Bebida,21,25,110,65,Evitar
+Água de Coco,Bebida,6,9,44,54,Recomendado
+Energético,Bebida,27,28,112,68,Evitar
+Biscoito Recheado,Ultraprocessado,30,72,500,77,Evitar
+Salgadinho de Milho,Ultraprocessado,2,57,536,72,Evitar
+Pizza Mussarela,Fast Food,4,33,266,60,Moderado
+Hambúrguer Artesanal,Fast Food,5,30,295,66,Moderado
+Batata Frita,Fast Food,1,41,312,75,Evitar
+Coxinha,Fast Food,3,35,280,68,Evitar
+Pastel de Queijo,Fast Food,2,32,310,72,Evitar
+Açaí com Xarope,Sobremesa,35,40,250,75,Evitar
+Açaí sem Xarope,Sobremesa,5,12,110,40,Recomendado
+Mel,Adoçante,82,82,304,58,Moderado
+Amendoim Torrado,Oleaginosa,4,16,567,14,Moderado
+Castanha-do-Pará,Oleaginosa,2,12,656,15,Moderado
+Nozes,Oleaginosa,2,14,654,15,Moderado
+Amêndoas,Oleaginosa,4,22,579,15,Moderado
